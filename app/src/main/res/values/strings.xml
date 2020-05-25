@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Social App</string>
+
+    <string name="hint_user_id">Please enter UserId</string>
+    <string name="login">LogIn</string>
+    <string name="signup">SignUp</string>
+    <string name="register">New User please signup</string>
+
+    <string name="check_network">Please check you network connectivity</string>
+    <string name="enter_userid">Please enter UserId</string>
+    <string name="social_network">Social Network</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+
+    <string name="hint_fname">Please enter First Name</string>
+    <string name="hint_lname">Please enter Last Name</string>
+    <string name="hint_email">Please enter Email Id</string>
+
+    <string name="user_not_found">User not found</string>
+    <string name="error_msg">Something went wrong</string>
+    <string name="progress_message">Please wait…</string>
+
+
+    <string name="fname_err">Please enter First Name</string>
+    <string name="lname_err">Please enter Last Name</string>
+    <string name="email_err">Please enter Email</string>
+    <string name="gender_err">Please select Gender</string>
+
+    <string name="timeline">Timeline</string>
+
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+
+    <string name="gggg">Et sint cupiditate consequatur expedita tempora rerum. Nobis commodi minima quas molestiae. Pariatur molestiae itaque qui.\n\nEt ut aspernatur blanditiis autem labore eligendi. Cupiditate exercitationem aliquam et dolores magnam nostrum possimus. Atque quia quia voluptatem eius assumenda vitae sint. Quod dolore porro saepe. Necessitatibus quia id voluptas vero et aut ullam.\n\nVoluptas sint molestiae est ex et. Ut sunt est voluptate eos.\n\nTempora facere optio pariatur sunt pariatur. Illum aut dolores ipsam quis consectetur. Et sint cupiditate consequatur expedita tempora rerum. Nobis commodi minima quas molestiae. Pariatur molestiae itaque qui.\n\nEt ut aspernatur blanditiis autem labore eligendi. Cupiditate exercitationem aliquam et dolores magnam nostrum possimus. Atque quia quia voluptatem eius assumenda vitae sint. Quod dolore porro saepe. Necessitatibus quia id voluptas vero et aut ullam.\n\nVoluptas sint molestiae est ex et. Ut sunt est voluptate eos.\n\nTempora facere optio pariatur sunt pariatur.</string>
+</resources>
